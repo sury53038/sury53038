@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+### My name is Surya Kant Singh, and I'm an AI/ML enthusiast interested in everything :)
+
+- 🔭 I’m currently working to solve complex real-world challenges with code and AI.
+- 🌱 I’m currently learning LLMs and GenAI
+- 🤔 I’m looking for help with ideas to build the core concepts and porjects.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/suryak2005/) | [Gmail](mailto:surya53038@gmail.com)
+- ⚡ Fun fact: Food is the source of my Coding !!
 <!--
 **sury53038/sury53038** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
