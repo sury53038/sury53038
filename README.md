@@ -5,7 +5,7 @@
 - 🔭 I’m currently working to solve complex real-world challenges with code and AI.
 - 🌱 I’m currently learning LLMs and GenAI
 - 🤔 I’m looking for help with ideas to build the core concepts and porjects.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/suryak2005/) | [Gmail](mailto:surya53038@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/suryak2005/) | [Gmail](mailto:surya53038@gmail.com) | [Leetcode](https://leetcode.com/surya53038/)
 - ⚡ Fun fact: Food is the source of my Coding !!
 <!--
 **sury53038/sury53038** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
